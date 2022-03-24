@@ -35,5 +35,5 @@ function clickOnGalleryItem(event) {
     return;
   }
   event.preventDefault();
-  SimpleLightbox()
+  SimpleLightbox
 }
